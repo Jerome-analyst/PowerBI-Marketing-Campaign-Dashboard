@@ -9,11 +9,11 @@ The objective is to enable data-driven marketing decisions, optimize campaign st
 ## Dashboard Preview  
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_1" width="600">
+  <img src="https://github.com/Jerome-analyst/PowerBI-Marketing-Campaign-Dashboard/blob/main/Customer%20Overview.png" width="600">
 </p>
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_2" width="600">
+  <img src="https://github.com/Jerome-analyst/PowerBI-Marketing-Campaign-Dashboard/blob/main/Campaign%20and%20Channels.png" width="600">
 </p>
 
 ---
